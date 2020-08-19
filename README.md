@@ -1,3 +1,5 @@
+（不同模型的实现代码目录： awesome-semantic-segmentation-pytorch/core/models/）
+
 # Semantic Segmentation on PyTorch
 [![python-image]][python-url]
 [![pytorch-image]][pytorch-url]
